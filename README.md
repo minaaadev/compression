@@ -21,7 +21,7 @@ LZ77과 Huffman 알고리즘을 사용하여 데이터를 무손실 압축한다
 ![image](https://github.com/user-attachments/assets/4c9ba397-96ca-413e-9e0b-03d007b92a87)<br>
 선택된 파일들을 화면에 표시
 ![image](https://github.com/user-attachments/assets/bd535802-7244-4479-aa00-e6150dbd3fc2)<br>
-압축 파일 이름 지정
+압축 파일 이름 지정<br>
 ![image](https://github.com/user-attachments/assets/81cc5d56-a206-42a8-b306-215700144406)<br>
 압축된 파일 생성 확인
 
