@@ -6,7 +6,7 @@
 이미지 출처 - https://www.samsungsds.com/kr/news/index.html
 ## DEFLATE 알고리즘
 LZ77과 Huffman 알고리즘을 사용하여 데이터를 무손실 압축한다.
-![image](https://github.com/user-attachments/assets/b40a64ee-10e7-47cf-8742-afdede7aaf3f)
+![image](https://github.com/user-attachments/assets/b40a64ee-10e7-47cf-8742-afdede7aaf3f)<br>
 빈도가 높은 문자 또는 기호에 짧은 코드를 할당하고 빈도가 높은 문자에는 더 적은 비트가 필요하므로 전체 데이터의 크기를 줄일 수 있다.
 
 ### LZ77 알고리즘
